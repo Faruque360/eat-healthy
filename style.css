@@ -1,4 +1,61 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'PT Sans', sans-serif;
+    margin: 0;
+    background-color: #E5E5E5;
+}
+
+section {
+    display: flex;
+}
+
+.diat {
+    background-image: url(Frame\ 57.jpgs);
+    background-repeat: no-repeat;
+}
+
+.diat1 {
+    margin: 30px;
+    width: 50%;
+}
+
+.diatimg {
+    width: 50%;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 span {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 21px;
+    border-radius: 5px;
+    color: white;
+}
+
+.about-me {
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+}
+
+
+.aboutmedes {
+    width: 50%;
+    padding-top: 40px;
+}
+
+.aboutmeimg img {
+    width: 71%;
+    margin-left: 40px;
 }
